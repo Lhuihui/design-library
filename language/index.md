@@ -9,3 +9,5 @@
 ##### This is H5 looks like
 
 ###### This is H6 looks like
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
